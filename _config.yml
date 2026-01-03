@@ -1,10 +1,10 @@
 # Basic Information 
 title: 
-  - 李忆唐
-  - Yitang Li
-position: Undergraduate Student
-affiliation: Tsinghua University
-email: liyitang22@mails.tsinghua.edu.cn
+  - 王浩
+  - Hao Wang
+position: Embodied Intelligent Robot Engineer
+affiliation: COWAROBOT Co., Ltd., Shanghai, China
+email: wh18405586055@gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -14,16 +14,16 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=rNuJQowAAAAJ&hl=zh-CN&oi=ao
-cv_link: https://docs.google.com/document/d/1kDCCjJJcMdhKW_YKO6FOchhgqiM1t9SxsgyKqpJKQBM/edit?tab=t.0
-github_link: https://github.com/liyitang22
+google_scholar: https://scholar.google.com/citations?user=WCza1XMAAAAJ&hl=zh-CN&authuser=2
+# cv_link: https://docs.google.com/document/d/1kDCCjJJcMdhKW_YKO6FOchhgqiM1t9SxsgyKqpJKQBM/edit?tab=t.0
+github_link: https://github.com/wanghao0922
 # linkedin: https://www.linkedin.com/
-rednote: https://www.xiaohongshu.com/user/profile/61f27c65000000001000bf55
-twitter: https://x.com/li_yitang
+# rednote: https://www.xiaohongshu.com/user/profile/61f27c65000000001000bf55
+# twitter: https://x.com/li_yitang
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/lyt2.png
+avatar: ./assets/img/wh.png
 favicon: ./assets/img/favicon2.png
 favicon_dark: ./assets/img/favicon2.png
 
