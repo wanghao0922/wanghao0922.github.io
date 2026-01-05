@@ -1,6 +1,6 @@
 main:
   - title: "CTBC: Contact-Triggered Blind Climbing for Wheeled Bipedal Robots with Instruction Learning and Reinforcement Learning"
-    authors: Rankun Li, <strong><span style="color:#E67E22;">Hao Wang</span></strong>*, Qi Li, Zhuo Han, Yifei Chu, Linqi Ye, Wende Xie, Wenlong Liao(* Equal Contribution)
+    authors: Rankun Li*, <strong><span style="color:#E67E22;">Hao Wang</span></strong>*, Qi Li*, Zhuo Han, Yifei Chu, Linqi Ye, Wende Xie, Wenlong Liao(* Equal Contribution)
     conference_short: In submission
     # conference: Conference on Robot Learning <strong>(CoRL)</strong>, 2025.
     pdf: https://arxiv.org/abs/2509.02986
@@ -12,7 +12,7 @@ main:
     image: ./assets/img/ICRA2026-CTBC.png
     
   - title: "Learning Decoupled Training Methods for High-Inertia Wheel-Legged Robot to Move and Grasp"
-    authors: Shiyu Zhu, Rankun Li, Qi Li, Guangsheng Li, ZhengDe Ma, <strong><span style="color:#E67E22;">Hao Wang</span></strong>*, Wenlong Liao, Shenglan Liu, Wende Xie
+    authors: Shiyu Zhu, Rankun Li, Qi Li, Guangsheng Li, ZhengDe Ma, <strong><span style="color:#E67E22;">Hao Wang</span></strong>, Wenlong Liao, Shenglan Liu, Wende Xie
     conference_short: In submission
     # conference: Conference on Robot Learning <strong>(CoRL)</strong>, 2025.
     pdf: ./assets/files/ICRA26_3493_MS.pdf
