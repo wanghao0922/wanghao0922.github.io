@@ -9,7 +9,7 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemo/nics/
     # notes: Oral Presentation
-    image: ./assets/img/ICRA2026-CTBC.png
+    image: ./assets/img/ICRA2026_CTBC.png
     
   - title: "Learning Decoupled Training Methods for High-Inertia Wheel-Legged Robot to Move and Grasp"
     authors: Shiyu Zhu, Rankun Li, Qi Li, Guangsheng Li, ZhengDe Ma, <strong><span style="color:#E67E22;">Hao Wang</span></strong>, Wenlong Liao, Shenglan Liu, Wende Xie
@@ -21,4 +21,4 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemo/nics/
     # notes: Oral Presentation
-    image: ./assets/img/ICRA26_3493_MS.png
+    image: ./assets/img/ICRA26_3493.png
