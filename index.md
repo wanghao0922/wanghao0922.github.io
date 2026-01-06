@@ -21,9 +21,9 @@ Throughout my academic and industrial journey, I have developed strong **sim2rea
 
 - **Whole-Body Control for Loco-Manipulation 🤖:** Reinforcement learning for robust real-world deployment; Learning-based whole-body control for (wheeled-)legged robots, enabling coordinated locomotion and manipulation
 - **Dexterous Manipulation🖐️🧠:** Scaleble skill learning from scalable data; Vision–language–action models
-
+<!-- 
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/selected_awards.md %}
 
-{% include_relative _includes/press.md %}
+{% include_relative _includes/press.md %} -->
