@@ -26,6 +26,8 @@ Throughout my academic and industrial journey, I have developed strong **sim2rea
 
 {% include_relative _includes/publications.md %}
 
-<!-- {% include_relative _includes/selected_awards.md %} -->
+{% comment %}
+{% include_relative _includes/selected_awards.md %}
 
-<!-- {% include_relative _includes/press.md %} -->
+{% include_relative _includes/press.md %}
+{% endcomment %}
