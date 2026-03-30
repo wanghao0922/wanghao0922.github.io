@@ -1,8 +1,16 @@
 main:
+  # - title: "HIL-SERL for automated robotic manipulation"
+  #   authors: Qi Li*, Hao Wang*, Tianhao Chen*, Zhengde Ma, Wende Xie(* Equal Contribution)
+  #   conference_short: project
+  #   video: ./assets/files/hilserl.mp4
+  #   image: ./assets/img/hilserl.gif
 
   - title: "HIL-SERL for automated robotic manipulation"
     authors: Qi Li*, Hao Wang*, Tianhao Chen*, Zhengde Ma, Wende Xie(* Equal Contribution)
-    
+    conference_short: project
+    video: ./assets/files/hilserl.mp4
+    image: ./assets/img/hilserl.gif
+
   - title: "CTBC: Contact-Triggered Blind Climbing for Wheeled Bipedal Robots with Instruction Learning and Reinforcement Learning"
     authors: Rankun Li*, <strong><span style="color:#E67E22;">Hao Wang</span></strong>*, Qi Li*, Zhuo Han, Yifei Chu, Linqi Ye, Wende Xie, Wenlong Liao(* Equal Contribution)
     conference_short: In submission

@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am currently working as an Embodied AI Algorithm Engineer at [CowaRobot)](https://www.cowarobot.com/home), based in Shanghai, China, where I focus on <span style="color:darkred"><strong>Reinforcement Learning</strong></span> for wheeled-legged robots, humanoids, robotic arm and quadrupeds. Additionally, I am actively involved in [UMI](https://arxiv.org/abs/2402.10329) and **VLA** to advance robotic manipulation.
+I am currently working as a Robotics Research Engineer at [CowaRobot)](https://www.cowarobot.com/home), based in Shanghai, China, where I focus on <span style="color:darkred"><strong>Reinforcement Learning</strong></span> for wheeled-legged robots, humanoids, robotic arm and quadrupeds. Additionally, I am actively involved in **VLA** and **Reward Model** to advance robotic manipulation.
 
 I received my Bachelor’s degree in Armored Vehicle Engineering from [Beijing Institute of Technology](https://me.bit.edu.cn/) in 2022, advised by Prof. [Chaoyang Jiang](https://cjiang01.github.io/), with a research focus on MPC-based **trajectory tracking control** for autonomous vehicles. I subsequently obtained my Master’s degree in Engineering from [Beijing Institute of Technology](https://xjjg.bit.edu.cn/) in 2025, advised by Prof. [Zeang Zhao](https://scholar.google.com/citations?user=bSN5VbMAAAAJ&hl=en&oi=ao), in collaboration with [Direct Drive Tech](https://directdrive.com/), where I worked on **RL-based locomotion policy** for bipedal–wheeled robot named [Diablo](https://arxiv.org/abs/2407.21500).
 
