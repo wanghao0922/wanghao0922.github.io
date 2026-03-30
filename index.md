@@ -20,10 +20,12 @@ Throughout my academic and industrial journey, I have developed strong **sim2rea
 ## Research Interests
 
 - **Whole-Body Control for Loco-Manipulation 🤖:** Reinforcement learning for robust real-world deployment; Learning-based whole-body control for (wheeled-)legged robots, enabling coordinated locomotion and manipulation
-- **Dexterous Manipulation🖐️🧠:** Scaleble skill learning from scalable data; Vision–language–action models
-<!-- 
+- **Dexterous Manipulation🖐️:** Scaleble skill learning from scalable data; Vision–language–action models
+- **Sim2Real📈:** Bridging the gap between simulation and real-world deployment; Physics parameter alignment for reliable sim2real transfer across diverse robotic platforms, including custom in-house hardware
+
+
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/selected_awards.md %}
+<!-- {% include_relative _includes/selected_awards.md %} -->
 
-{% include_relative _includes/press.md %} -->
+<!-- {% include_relative _includes/press.md %} -->

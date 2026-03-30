@@ -15,8 +15,9 @@ main:
     authors: Shiyu Zhu, Rankun Li, Qi Li, Guangsheng Li, ZhengDe Ma, <strong><span style="color:#E67E22;">Hao Wang</span></strong>, Wenlong Liao, Shenglan Liu, Wende Xie
     conference_short: In submission
     # conference: Conference on Robot Learning <strong>(CoRL)</strong>, 2025.
-    pdf: ./assets/files/ICRA26_3493_MS.pdf
+    pdf: ./assets/files/IROS26_1345_MS.pdf
     project: https://decoupled-loco-manipulation.github.io/DeLM.github.io/
+    video: ./assets/files/IROS26_1345_VI_i.mp4
     # code: https://github.com/LeCAR-Lab/SoFTA
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemo/nics/
