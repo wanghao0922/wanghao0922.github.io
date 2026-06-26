@@ -22,10 +22,22 @@ main:
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemo/nics/
     # notes: Oral Presentation
     image: ./assets/img/ICRA2026_CTBC.png
+
+  - title: "Spiral wheel with a reconfigurable shape and variable grip for all-terrain robots"
+    authors: Pan He, <strong><span style="color:#E67E22;">Hao Wang</span></strong>, Panding Wang, Hongshuai Lei, Shengyu Duan, Zeang Zhao
+    conference_short: accepted
+    conference: Soft Science <strong>(SS)</strong>
+    pdf: https://u10059356.ct.sendgrid.net/ls/click?upn=u001.NCdeUNvWKFrSMYYGc58Mygq0xN3c9ZASHUBmXVtYJdnXxCe7UaV7cjNWBL-2ByOWilXgUJ-2BdMLTGp-2BAuRb8XXlbh5fUmWSRdS0MSoQ2iTYVbvQKa6qvu8iWomqLlOqDsiHUiCyJ-2B9av46uHp2PCHuaK1ZUQnYm94oNC7J2a-2BEF8Vs-3DuNMj_XbxJ4pigUocV5g-2F5TxRjCxvHRecF454Dq9olw3-2FhXMc5K1Jh8TVynUuTyUsw5MkJCGmGgwu5W8LLHkYR2lZHohd7FCRQyIQfgAUfCI0ujZSX76Fd1bfYr7kodXomicsZMjk8zrT3AXbNoiD4ST-2BTConTzac-2FOpmI4Q8HGiLUFKD20nwd53oR3Mn79qpuQsxeu7CXTNuutZRGLt5t608RtIOpuwb5Uwdsz65b45RTtf05p96hKQUhG08heZa4dZNzgIw1ltn4kJGp9oKKl-2FrWVn6R1utEMGyCknYOgeRZuLVbnW2m5iqk03a9rNkKIenLe9VVBcbdQj4az9T0glmGR0v3Hej2geGp5u-2FPwIIpC0JjLb2caRthcHq7BNDn-2B23FozXZpvj0BnOPjB2dGtc1c-2FZ2E2cnY5p6ObOhzew-2BSnwLTI-2BTmUQPFVUQz3MhcovO
+    # project: https://ctbc-for-wheeled-bipedal-robots.github.io/
+    # code: https://github.com/LeCAR-Lab/BFM-Zero
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemo/nics/
+    # notes: Oral Presentation
+    image: ./assets/img/ICRA2026_CTBC.png
     
   - title: "Learning Decoupled Training Methods for High-Inertia Wheel-Legged Robot to Move and Grasp"
     authors: Shiyu Zhu, Rankun Li, Qi Li, Guangsheng Li, ZhengDe Ma, <strong><span style="color:#E67E22;">Hao Wang</span></strong>, Wenlong Liao, Shenglan Liu, Wende Xie
-    conference_short: In submission
+    conference_short: accepted
     conference: International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2026.
     pdf: ./assets/files/IROS26_1345_MS.pdf
     project: https://decoupled-loco-manipulation.github.io/DeLM.github.io/
