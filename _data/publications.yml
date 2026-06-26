@@ -14,7 +14,7 @@ main:
   - title: "CTBC: Contact-Triggered Blind Climbing for Wheeled Bipedal Robots with Instruction Learning and Reinforcement Learning"
     authors: Rankun Li*, <strong><span style="color:#E67E22;">Hao Wang</span></strong>*, Qi Li*, Zhuo Han, Yifei Chu, Linqi Ye, Wende Xie, Wenlong Liao(* Equal Contribution)
     conference_short: In submission
-    conference: Robotics and Automation Letters <strong>(RAL)</strong>
+    conference: arxiv
     pdf: https://arxiv.org/abs/2509.02986
     project: https://ctbc-for-wheeled-bipedal-robots.github.io/
     # code: https://github.com/LeCAR-Lab/BFM-Zero
