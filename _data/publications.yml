@@ -42,8 +42,8 @@ main:
     # notes: Oral Presentation
     image: ./assets/img/ICRA2026_CTBC.png
 
-  - title: "HIL-SERL for automated robotic manipulation"
-    authors: Qi Li*, <strong><span style="color:#E67E22;">Hao Wang</span></strong>*, Tianhao Chen*, Zhengde Ma, Wende Xie(* Equal Contribution)
-    conference_short: project
-    video: ./assets/files/hilserl.mp4
-    image: ./assets/img/hilserl.gif
+  # - title: "HIL-SERL for automated robotic manipulation"
+  #   authors: Qi Li*, <strong><span style="color:#E67E22;">Hao Wang</span></strong>*, Tianhao Chen*, Zhengde Ma, Wende Xie(* Equal Contribution)
+  #   conference_short: project
+  #   video: ./assets/files/hilserl.mp4
+  #   image: ./assets/img/hilserl.gif
